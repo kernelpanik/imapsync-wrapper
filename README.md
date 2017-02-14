@@ -1,2 +1,4 @@
 # imapsync-wrapper
-A bash wrapper, in Italian language, to ease imapsync and its use.
+A bash wrapper, in Italian language, to ease imapsync use.
+
+imapsync must be already installed.
